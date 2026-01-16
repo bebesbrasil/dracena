@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dracena.despachante10.com.br/sitemap.xml
